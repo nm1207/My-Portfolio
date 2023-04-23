@@ -5,19 +5,19 @@ This is my portfolio website. To know more about me visite the About Section of 
 ## Project Imgaes
 
 #### Home Page
-![image](https://user-images.githubusercontent.com/76462870/183878152-ea3b050e-fb9a-4507-b510-b60f84423c21.png)
+![image](https://user-images.githubusercontent.com/76462870/233813742-9e0b82f4-19db-4f15-8c3c-b7e0fdea5915.png)
 
 #### Home Page (Dark Mode on)
-![image](https://user-images.githubusercontent.com/76462870/183879427-6c13b84b-9066-4810-9a6d-554ed2741145.png)
+![image](https://user-images.githubusercontent.com/76462870/233813755-0e70e471-c20d-4d3d-89c6-52d5e8e16881.png)
 
 #### About Page
-![image](https://user-images.githubusercontent.com/76462870/183878647-1332f96e-a890-4e26-89db-ea78bcac19a5.png)
+![image](https://user-images.githubusercontent.com/76462870/233813777-1033cc2e-5f1f-43d1-a06b-256c643fb79b.png)
 
 #### Project Section
-![image](https://user-images.githubusercontent.com/76462870/183878867-5450c4ab-9a0e-4536-ac75-f680cd4e597d.png)
+![image](https://user-images.githubusercontent.com/76462870/233813788-e3573b45-43e6-4a79-9b9b-f56aff7833e9.png)
 
 #### Conatact From
-![image](https://user-images.githubusercontent.com/76462870/183879126-72861576-6d4a-44bb-a8a9-db98f92e4fc6.png)
+![image](https://user-images.githubusercontent.com/76462870/233813804-b741cdf3-d964-4c4a-a282-fe37f361f7eb.png)
 
 #### Theme color
 ![image](https://user-images.githubusercontent.com/76462870/183879670-8dd33c46-8b05-46ce-aab2-9d2f717016d5.png)
