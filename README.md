@@ -20,6 +20,6 @@ This is my portfolio website. To know more about me visite the About Section of 
 ![image](https://user-images.githubusercontent.com/76462870/233813804-b741cdf3-d964-4c4a-a282-fe37f361f7eb.png)
 
 #### Theme color
-![image](https://user-images.githubusercontent.com/76462870/183879670-8dd33c46-8b05-46ce-aab2-9d2f717016d5.png)
+![image](https://user-images.githubusercontent.com/76462870/233813826-7df37705-f87c-4226-8935-ab2e0fc48c78.png)
 
 
