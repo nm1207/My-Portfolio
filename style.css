@@ -238,6 +238,7 @@
     /* Home section css */
     .home-img img{
         height: 400px;
+        margin-left: 145px;
         border-radius: 10px;
     }
     .home-img::after{

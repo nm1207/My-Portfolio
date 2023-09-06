@@ -21,11 +21,13 @@
 @media only screen and (max-width: 1350px) {
     .home-img img {
         height: 300px;
+        margin-left: auto;
         border-radius: 100%;
     }
     .home-img {
         flex: 0 0 30%;
         max-width: 30%;
+
         text-align: right;
     }
     .home-information {
